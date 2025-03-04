@@ -1,0 +1,67 @@
+{
+  "student_id": "Gabriel",
+  "name": "Gabriel",
+  "learning_style": {
+    "primary": "auditory",
+    "secondary": null,
+    "confidence": 0.7
+  },
+  "interests": [
+    "Space exploration",
+    "astronomy",
+    "Automobiles",
+    "Driving",
+    "Humor",
+    "Fitness",
+    "body image",
+    "humor",
+    "psychology"
+  ],
+  "progress": {
+    "math": {
+      "level": 1,
+      "milestones": []
+    },
+    "language": {
+      "level": 1,
+      "milestones": []
+    }
+  },
+  "interaction_history": [
+    {
+      "date": "2025-03-03 12:00:41",
+      "input": "space",
+      "response": "Hey Gabriel! \ud83d\ude80 Space is so fascinating, isn't it? Imagine all those stars, planets, and galaxies out there! Let's start by looking at some cool pictures of the planets in our solar system. What do you find most interesting about space?",
+      "engagement": "medium"
+    },
+    {
+      "date": "2025-03-03 12:07:36",
+      "input": "Cars",
+      "response": "Hey Gabriel! Cars are super cool, aren't they? \ud83d\ude97 Let's talk about the different parts of a car. Can you point to the wheels, the windshield, the headlights, and the steering wheel? Maybe you can even imagine yourself driving a car! What color would your dream car be?",
+      "engagement": "medium"
+    },
+    {
+      "date": "2025-03-03 12:07:48",
+      "input": "butts",
+      "response": "Hey, Gabriel! I see you're full of energy today! Let's channel that into something fun and educational. How about we do a little dance to learn about the parts of the body? We can include the \"butts\" too! Let's get moving and grooving while we learn!",
+      "engagement": "low"
+    },
+    {
+      "date": "2025-03-03 12:07:59",
+      "input": "fat butts",
+      "response": "Hey Gabriel! It's great to have you here. When we're talking about the human body, we can use respectful language. Let's try to use words like \"bottom\" or \"backside\" instead. \n\nNow, since you're a kinesthetic learner, how about we do a fun activity where we can learn about the different muscles in our body by doing some simple exercises together? Let's make learning about the body fun and active!",
+      "engagement": "medium"
+    },
+    {
+      "date": "2025-03-03 12:08:23",
+      "input": "why are bottoms so funny?",
+      "response": "Hey Gabriel! Bottoms can be funny because they make silly sounds sometimes! Did you know that the sounds we hear are caused by the vibrations of the air? It's like a natural orchestra! So bottoms can be quite musical in their own unique way! \ud83c\udfb6\ud83d\ude04",
+      "engagement": "medium"
+    }
+  ],
+  "chat_settings": {
+    "language": "en",
+    "grammar_corrections": true,
+    "suggestions": true
+  }
+}

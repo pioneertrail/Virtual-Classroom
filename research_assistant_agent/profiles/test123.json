@@ -1,0 +1,36 @@
+{
+  "student_id": "test123",
+  "name": "Alex",
+  "learning_style": {
+    "primary": "visual",
+    "secondary": "kinesthetic",
+    "confidence": 0.85
+  },
+  "interests": [
+    "space",
+    "robots"
+  ],
+  "progress": {
+    "math": {
+      "level": 1,
+      "milestones": []
+    },
+    "language": {
+      "level": 1,
+      "milestones": []
+    }
+  },
+  "interaction_history": [
+    {
+      "date": "2025-03-03 11:52:20",
+      "input": "What's a planet?",
+      "response": "A planet is a large object that orbits around a star.",
+      "engagement": "high"
+    }
+  ],
+  "chat_settings": {
+    "language": "en",
+    "grammar_corrections": true,
+    "suggestions": true
+  }
+}

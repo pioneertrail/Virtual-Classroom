@@ -1,0 +1,35 @@
+{
+  "student_id": "oh hi",
+  "name": "oh hi",
+  "learning_style": {
+    "primary": "auditory",
+    "secondary": null,
+    "confidence": 0.7
+  },
+  "interests": [
+    "Casual conversation"
+  ],
+  "progress": {
+    "math": {
+      "level": 1,
+      "milestones": []
+    },
+    "language": {
+      "level": 1,
+      "milestones": []
+    }
+  },
+  "interaction_history": [
+    {
+      "date": "2025-03-03 19:14:39",
+      "input": "oh hi",
+      "response": "Hello Student! Welcome to our virtual classroom! I hope you're ready for a fun and educational time. Feel free to ask any questions or share your thoughts with us. Let's make learning exciting together! \ud83c\udf1f\ud83d\udcda",
+      "engagement": "low"
+    }
+  ],
+  "chat_settings": {
+    "language": "en",
+    "grammar_corrections": true,
+    "suggestions": true
+  }
+}
